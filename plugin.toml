@@ -1,0 +1,7 @@
+[plugin]
+name = "tailwind"
+version = "0.1.0"
+description = "Tailwind CSS via CDN — injects the Tailwind Play CDN script"
+author = "Eduardo Stuart"
+
+[config]
